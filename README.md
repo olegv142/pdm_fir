@@ -1,4 +1,4 @@
-PDM bitstream FIR filter
+# PDM bitstream FIR filter
 
 The code utilizes 2 simple approaches to minimize computational efforts:
 - circular buffer
